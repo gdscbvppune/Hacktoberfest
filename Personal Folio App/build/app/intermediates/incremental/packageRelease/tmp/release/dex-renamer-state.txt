@@ -1,0 +1,4 @@
+#Sat Oct 05 20:32:11 IST 2019
+base.0=/Volumes/Sherrinford/dsc/projects/folio/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
