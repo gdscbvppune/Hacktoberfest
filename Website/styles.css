@@ -17,15 +17,15 @@
 
 	.home-tagline{
 		padding: 20px 48px;
-		font-size: 24px;
+		font-size: 25px;
 		color: #fff;
 	}
 
 	.arrow{
-		width: 3.75em;
-		height: 3.75em;
-		border-left: 6px solid #fff;
-		border-bottom: 6px solid #fff;
+		width: 3.78em;
+		height: 3.78em;
+		border-left: 7px solid #fff;
+		border-bottom: 5px solid #fff;
 		cursor: pointer;
 		transform: rotate(-45deg);
 	}
