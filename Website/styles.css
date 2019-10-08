@@ -22,8 +22,8 @@
 	}
 
 	.arrow{
-		width: 3.75em;
-		height: 3.75em;
+		width: 5em;
+		height: 8em;
 		border-left: 6px solid #fff;
 		border-bottom: 6px solid #fff;
 		cursor: pointer;
