@@ -22,13 +22,13 @@ body {
     color: #fff;
   }
   .container-fluid {
-    padding-top: 200px;
-    padding-bottom: 70px;
+    padding-top: 300px;
+    padding-bottom: 90px;
   }
   .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
-    border: 20px solid black;
+    border: 10px solid brown;
     border-radius: 25px;
     margin-bottom: 0;
     font-size: 12px;
