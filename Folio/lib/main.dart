@@ -12,9 +12,9 @@ class Home extends StatefulWidget{
 class HomeState extends State<Home>{
 
   bool themeStateChecker = true;
-  String name = "Dewansh Rawat";
-  String tagline = "Designer | Developer | Hustler | Guitarist";
-  String aboutMe = "My name is Dewansh Rawat. I'm a tech enthusiast, a frontend designer and a backend developer to be specific. I love working on new exciting projects. I am currently working on ML related applications. Interested in working together? Just drop me a line.";
+  String name = "Vansh Bhasin";
+  String tagline = "Designer | Developer";
+  String aboutMe = "My name is Vansh Bhasin. I'm a tech enthusiast, a frontend designer and a backend developer to be specific. I love working on new exciting projects. I am currently working on Flutter related applications. Interested in working together? Just drop me a line.";
   String contactLine = "Pick your favorite means of communication.";
 
   @override
@@ -36,7 +36,7 @@ class HomeState extends State<Home>{
               ),
               IconButton(
                 onPressed: (){
-                  Share.share("See my details and reach out to me at folio! Download now from https://dewanshrawat.tech/");
+                  Share.share("See my details and reach out to me at folio! Download now from https://vanshbhasin157.github.io/");
                 },
                 icon: Icon(Icons.share),
               )
@@ -109,7 +109,7 @@ class HomeState extends State<Home>{
                       ),
                       GestureDetector(
                         onTap: () async {
-                          var facebookUrl = "https://facebook.com/dewanshrawat15";
+                          var facebookUrl = "https://facebook.com/vanshbhasin157";
                           if (await canLaunch(facebookUrl)){
                             await launch(facebookUrl);
                           }
@@ -127,7 +127,7 @@ class HomeState extends State<Home>{
                       ),
                       GestureDetector(
                         onTap: () async {
-                          var instagramUrl = "https://instagram.com/dewanshrawat15";
+                          var instagramUrl = "https://instagram.com/vanshbhasin157";
                           if (await canLaunch(instagramUrl)){
                             await launch(instagramUrl);
                           }
@@ -145,7 +145,7 @@ class HomeState extends State<Home>{
                       ),
                       GestureDetector(
                         onTap: () async {
-                          var twitterUrl = "https://twitter.com/dewanshrawat15";
+                          var twitterUrl = "https://twitter.com/vanshbhasin19";
                           if (await canLaunch(twitterUrl)){
                             await launch(twitterUrl);
                           }
@@ -163,7 +163,7 @@ class HomeState extends State<Home>{
                       ),
                       GestureDetector(
                         onTap: () async {
-                          var githubUrl = "https://github.com/dewanshrawat15";
+                          var githubUrl = "https://github.com/vanshbhasin157";
                           if (await canLaunch(githubUrl)){
                             await launch(githubUrl);
                           }
@@ -181,7 +181,7 @@ class HomeState extends State<Home>{
                       ),
                       GestureDetector(
                         onTap: () async {
-                          var mailUrl = "mailto:dewanshrawat15@gmail.com";
+                          var mailUrl = "mailto:vanshbhasin157@gmail.com";
                           if (await canLaunch(mailUrl)){
                             await launch(mailUrl);
                           }
