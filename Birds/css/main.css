@@ -29,7 +29,7 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
     border: 10px solid brown;
-    border-radius: 25px;
+    border-radius: 0;
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
