@@ -5,19 +5,19 @@ body {
   }
   p {font-size: 16px;}
   .margin {margin-bottom: 5px;}
-  .bg-1 { 
+  .bg-1 {
     background-color: #1abc9c; /* Green */
     color: #ffffff;
   }
-  .bg-2 { 
+  .bg-2 {
     background-color: #474e5d; /* Dark Blue */
     color: #ffffff;
   }
-  .bg-3 { 
+  .bg-3 {
     background-color: #f7bcbc; /* White */
     color: #555555;
   }
-  .bg-4 { 
+  .bg-4 {
     background-color: #2f2f2f; /* Black Gray */
     color: #fff;
   }
@@ -28,7 +28,7 @@ body {
   .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
-    border: 10px solid brown;
+    border: 20px solid black;
     border-radius: 0;
     margin-bottom: 0;
     font-size: 12px;
