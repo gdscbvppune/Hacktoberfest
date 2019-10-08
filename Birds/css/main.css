@@ -30,8 +30,8 @@ body {
     padding-bottom: 15px;
     border: 10px solid black;
     border-radius: 0;
-    margin-bottom: 0;
-    font-size: 12px;
+    margin-bottom: 20;
+    font-size: 20px;
     letter-spacing: 5px;
   }
   .navbar-nav  li a:hover {
