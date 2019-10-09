@@ -31,7 +31,7 @@
 	}
 
 	.about{
-		padding: 180px 0;
+		padding: 160px 0;
 	}
 
 	.about-title{
@@ -98,6 +98,6 @@
 	}
 
 	.mail-link, .mail-link:active, .mail-link:hover, .mail-link:active{
-		text-decoration: underline;
+		text-decoration: bold;
 		color: #15171c;
 	}
