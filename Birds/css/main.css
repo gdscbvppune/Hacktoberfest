@@ -4,7 +4,7 @@ body {
     color: #f5f6f7;
   }
   p {font-size: 16px;}
-  .margin {margin-bottom: 5px;}
+  .margin {margin-bottom: 40px;}
   .bg-1 {
     background-color: #1abc9c; /* Green */
     color: #ffffff;
@@ -28,7 +28,7 @@ body {
   .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
-    border: 10px solid black;
+    border: 10px solid blue;
     border-radius: 0;
     margin-bottom: 20;
     font-size: 20px;
