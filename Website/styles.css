@@ -5,13 +5,13 @@
 	.home{
 		background: url("./assets/background.jpg") center center no-repeat;
 		background-attachment: fixed;
-		padding: 240px 0 75px;
+		padding: 2px 0 75px;
 	}
 
 	.home-title{
 		padding: 20px 48px;
 		font-size: 42px;
-		background: rgba(0, 0, 0, 0.75);
+		background: rgba(0.75);
 		color: #fff;
 	}
 
