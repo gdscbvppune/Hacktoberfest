@@ -22,7 +22,7 @@
 	}
 
 	.arrow{
-		width: 3.75em;
+		width: 55em;
 		height: 3.75em;
 		border-left: 6px solid #fff;
 		border-bottom: 6px solid #fff;
@@ -98,6 +98,6 @@
 	}
 
 	.mail-link, .mail-link:active, .mail-link:hover, .mail-link:active{
-		text-decoration: bold;
+		text-decoration: italic;
 		color: #15171c;
 	}
